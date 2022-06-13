@@ -16,18 +16,22 @@ export class SideNavComponent implements OnInit {
     {
       title: 'costumers',
       icon: 'fas fa-users',
+      link: 'customers',
     },
     {
       title: 'contacts',
       icon: 'fas fa-address-book',
+      link: 'contacts',
     },
     {
       title: 'leads',
       icon: 'fas fa-hand-point-up',
+      link: 'leads',
     },
     {
       title: 'reports',
       icon: 'fa fa-flag',
+      link: 'reports',
     },
   ];
 
