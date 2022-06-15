@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "erezcrmfirst": {
+      "hosting": {
+        "crm": [
+          "erezcrmfirst"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "erezcrmfirst"
+  }
+}
